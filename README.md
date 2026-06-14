@@ -38,13 +38,6 @@ I contributed to the design, development, and implementation of multiple system 
 * Entity Framework
 * SQL Server
 
-### Frontend
-
-* HTML
-* CSS
-* JavaScript
-* Bootstrap
-
 ### Development Tools
 
 * Git
